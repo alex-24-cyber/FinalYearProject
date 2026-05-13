@@ -1,0 +1,6 @@
+domain,permutation,distance,ips,ips.geo.region,ips.geo.country,ips.geo.asn.number,ips.geo.asn.org,httpBanner,technologies,classification.legitimate,classification.parked,classification.phishing,whois,dnsAaaa,dnsMx,dnsTxt,dnsCname,dnsNs,registration_metadata,domainStatus,pageRank
+citizensinformation.fm,Tld,2,,,,,,,,,,,,,,"bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,v=spf1 ip6:fddb:0cf4:a3cf::/48 -all",,,,"{""domain"":""citizensinformation.fm"",""status"":""inactive"",""tags"":""country geo"",""zone"":""fm"",""scope"":null,""offers"":[]}",null
+citizensinformation.gov.bz,Tld,6,,,,,,,,,,,,,,,,,,"{""domain"":""citizensinformation.gov.bz"",""status"":""undelegated"",""tags"":"""",""zone"":""gov.bz"",""scope"":null,""offers"":[]}",null
+citizensinformation.gov.by,Tld,6,,,,,,,,,,,,,,v=spf1 -all,,,,"{""domain"":""citizensinformation.gov.by"",""status"":""unknown"",""tags"":"""",""zone"":""gov.by"",""scope"":null,""offers"":[]}",null
+citizensinformation.gov.pw,Tld,6,,,,,,,,,,,,,,,,,,"{""domain"":""citizensinformation.gov.pw"",""status"":""undelegated active"",""tags"":"""",""zone"":""gov.pw"",""scope"":null,""offers"":[]}",null
+citizensinformation.id.cv,Tld,4,,,,,,,,,,,,,,,,,,"{""domain"":""citizensinformation.id.cv"",""status"":""undelegated"",""tags"":"""",""zone"":""id.cv"",""scope"":null,""offers"":[]}",null
